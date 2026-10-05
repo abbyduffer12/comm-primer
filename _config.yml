@@ -1,0 +1,17 @@
+title: "Communication Theory Primer"
+description: "A plain-language guide to communication theory for 21st-century communication challenges, including AI."
+url: "https://abbyduffer12.github.io"
+baseurl: "/comm-primer"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections_dir: .
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
