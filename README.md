@@ -68,19 +68,11 @@ For this repository, keep `url` and `baseurl` aligned with username/repo so link
 
 In `assets/css/style.css`, update the variables in `:root`:
 
-- `--vt-maroon`
-- `--vt-orange`
-- `--vt-white`
-- `--vt-gray-100`
-- `--vt-gray-700`
-- `--vt-gray-900`
+- `--ink`, `--muted`, and `--paper` control the reading palette.
+- `--forest` and `--coral` control the primary brand accents.
+- `--serif` and `--sans` control the display and body typefaces.
 
-You can also tune spacing and typography in:
-
-- `.container`
-- `.site-header`
-- `.nav-list a`
-- `main`
+The main layout, navigation, homepage lens grid, and responsive breakpoints are all defined in the same stylesheet.
 
 ## Local preview
 

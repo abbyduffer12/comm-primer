@@ -10,30 +10,35 @@
   <body>
     <a class="skip-link" href="#main-content">Skip to main content</a>
     <header class="site-header" role="banner" aria-label="Site header">
-      <div class="container">
-        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <p class="site-tagline">{{ site.description }}</p>
-        <nav role="navigation" aria-label="Primary">
+      <div class="container header-inner">
+        <div class="brand-lockup">
+          <a class="site-mark" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">CT</a>
+          <div>
+            <p class="site-kicker">A field guide to everyday communication</p>
+            <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+          </div>
+        </div>
+        <nav class="site-nav" role="navigation" aria-label="Primary">
           <ul class="nav-list">
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/pages/transmission-view.html' | relative_url }}">Transmission View</a></li>
-            <li><a href="{{ '/pages/meaning-and-culture.html' | relative_url }}">Meaning &amp; Culture</a></li>
-            <li><a href="{{ '/pages/interpretation-and-power.html' | relative_url }}">Interpretation &amp; Power</a></li>
-            <li><a href="{{ '/pages/interpretation-and-intention.html' | relative_url }}">Interpretation &amp; Intention</a></li>
-            <li><a href="{{ '/pages/reader-guidance.html' | relative_url }}">What to Do</a></li>
-            <li><a href="{{ '/pages/how-i-built-this-site.html' | relative_url }}">How I Built This Site</a></li>
+            <li><a{% if page.url == '/' %} class="is-current"{% endif %} href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a{% if page.url contains 'transmission-view' %} class="is-current"{% endif %} href="{{ '/pages/transmission-view.html' | relative_url }}">Transmission</a></li>
+            <li><a{% if page.url contains 'meaning-and-culture' %} class="is-current"{% endif %} href="{{ '/pages/meaning-and-culture.html' | relative_url }}">Meaning &amp; culture</a></li>
+            <li><a{% if page.url contains 'interpretation-and-power' %} class="is-current"{% endif %} href="{{ '/pages/interpretation-and-power.html' | relative_url }}">Power</a></li>
+            <li><a{% if page.url contains 'interpretation-and-intention' %} class="is-current"{% endif %} href="{{ '/pages/interpretation-and-intention.html' | relative_url }}">Intention</a></li>
+            <li><a{% if page.url contains 'reader-guidance' %} class="is-current"{% endif %} href="{{ '/pages/reader-guidance.html' | relative_url }}">What to do</a></li>
+            <li><a{% if page.url contains 'how-i-built-this-site' %} class="is-current"{% endif %} href="{{ '/pages/how-i-built-this-site.html' | relative_url }}">About</a></li>
           </ul>
         </nav>
       </div>
     </header>
 
-    <main id="main-content" class="container" role="main" aria-label="Main content">
+    <main id="main-content" class="container page-shell{% if page.url == '/' %} home-shell{% endif %}" role="main" aria-label="Main content">
       {{ content }}
     </main>
 
     <footer class="site-footer" role="contentinfo" aria-label="Site footer">
       <div class="container">
-        <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}.</p>
+        <p><span class="footer-mark">CT</span> {{ site.title }} <span class="footer-separator">/</span> Built for clearer conversations.</p>
       </div>
     </footer>
   </body>
