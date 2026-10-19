@@ -1,7 +1,9 @@
 ---
 title: "The transmission view and its limits"
 ---
-
+---
+title: "The Transmission View and its Limits" 
+--- 
 # How does a message get from one person to another?
 
 Have you ever sent a text message and wondered whether the other person understood what you were trying to say?
