@@ -33,14 +33,7 @@ body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(
 .page-shell > h1 { max-width: 13ch; margin: 0 0 1.7rem; font: 600 clamp(2.7rem, 6vw, 5.8rem)/.98 var(--serif); letter-spacing: -.035em; }
 .page-shell > h1 + p { max-width: 43rem; color: var(--muted); font-size: 1.12rem; }
 .page-shell > h2 { margin-top: 3.8rem; font: 600 clamp(1.7rem, 3vw, 2.5rem)/1.1 var(--serif); }
-.page-shell > p {
-  max-width: 44rem;
-  color: var(--muted);
-}
-
-.page-shell > ol,
-.page-shell > ul {
-  max-width: 44rem;
+.page-shell > p, .page-shell > ol, .page-shell > ul { max-width: 44rem; }
 .page-shell li { padding-left: .35rem; margin-bottom: .5rem; }
 a { color: var(--forest); text-decoration-color: var(--coral); text-underline-offset: .2em; }
 a:hover, a:focus { color: #8b3d2d; }
