@@ -3,9 +3,11 @@ title: "What the reader should do"
 ---
 
 # What the reader should do
+main p {
+  color: #66736f; 
+  }
+  Ai can be a great tool for helping us communicate, but how do we make sure it is not changing what we actually want to say? 
 
-Ai can be a great tool for helping us communicate, but how do we make sure it is not changing what we actually want to say? 
-<p style="color: #66736f;">
 Throughout this website, we have explored how AI can influence the way our messages are written, delivered, and interpreted. now it's time to think about what we can do to stay in control of our communication. 
 
 # 1. Know What you are trying to communicate
