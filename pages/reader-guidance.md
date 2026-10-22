@@ -30,7 +30,7 @@ Remember Stuart Hall's idea of encoding and decoding. You might intend for a mes
 
 For example, when asking a coworker for help, AI might make your message sound more professional than necessary. That isn't always a bad thing, but it might not match the relationship you have with that person.
 
-## 4. Use Ai as an assistant, not your replacement 
+## 4. Use AI as an assistant, not your replacement 
 
 AI can help with grammar, organization, and finding the right words. However, it shouldn't automatically make every decision about how you communicate.5. Choose an action and justify it with theory.
 
