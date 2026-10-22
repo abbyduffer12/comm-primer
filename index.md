@@ -4,11 +4,42 @@ title: "Home"
 
 <div class="home-intro">
   <p class="eyebrow">Communication, made visible</p>
-  <h1>See what is happening<br><em>between the lines.</em></h1>
+  <h1>WHo<br><em>Is Speaking?</em></h1>
 
-Welcome to this project, designed to help non-technical audiences use communication theory to understand everyday communication problems in the 21st century, including those shaped by artificial intelligence.
+# When AI helps write our messages, whose words are they?
+Have you ever asked ChatGPT to rewrite a text message or email because you weren't sure how to word it?
 
-This site introduces key schools of communication thought and applies them to practical communication challenges. The central goal is to make the commonplace visible by naming what is usually felt but not analyzed.
+AI can help us communicate more clearly, professionally, and efficiently. But what happens when it starts changing the way we sound or the meaning behind what we originally wanted to say?
+
+Throughout this website, I'll explore how AI is becoming a co-author of our everyday communication. Using examples like apologizing to a friend or asking a coworker for help, we'll look at how AI can influence the messages we send and how other people interpret them.
+
+My goal is to help you understand how AI affects communication and why it's important to make sure the messages we send still represent our own intentions.
+
+# Four Ways to Understand AI and Communication 
+
+## 1 — Transmission: How Messages Travel
+
+Explore how messages move from one person to another and how AI can influence that process.
+
+## 2 — Meaning and Culture: How Words Create Meaning
+
+Learn how word choice, tone, and context influence how people understand AI-assisted messages.
+
+## 3 — Interpretation and Power: How People Understand Messages Differently
+
+Discover why someone might interpret an AI-written message differently than the sender intended.
+
+## 4 — Interpretation and Intention: Who Is Really Speaking?
+
+Consider how AI becomes another influence in communication and what that means for our intentions.
+
+# Where should you start? 
+You can explore each communication theory in order or jump to whichever topic interests you most.
+
+Once you've explored the theories, visit the practical guide to learn how to use AI while keeping your own voice and intentions in your communication.
+
+**AI can help us find the right words, but are they always our words?**
+
 </div>
 
 <section class="lens-overview" aria-labelledby="lenses-heading">
