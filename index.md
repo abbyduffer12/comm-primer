@@ -4,7 +4,7 @@ title: "Home"
 
 <div class="home-intro">
   <p class="eyebrow">Communication, made visible</p>
-  <h1>WHo<br><em>Is Speaking?</em></h1>
+  <h1>WHO<br><em>Is Speaking?</em></h1>
 
 # When AI helps write our messages, whose words are they?
 Have you ever asked ChatGPT to rewrite a text message or email because you weren't sure how to word it?
