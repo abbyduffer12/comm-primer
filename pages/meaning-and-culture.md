@@ -8,7 +8,7 @@ title: "Meaning and culture"
 
 Sometimes, what we say and what someone understands are two completely different things. The words we choose, the tone we use, and the relationship with the person receiving the essage can influence how our words are interpreted. 
 
-This is where (*semiotics*) come into play. 
+This is where **semiotics** come into play. 
 
 ## What is semiotics? 
 
@@ -38,7 +38,7 @@ From a semiotic perspective, the words and tone are signs that help us understan
 
 However, not everyone will react the same way. One person might appreciate the more thoughtful wording, while another might find it unnatural. 
 
-(*The words we choose matter because meaning comes from more than just what a message says. It also comes from how the message is expressed and understood.*) 
+**The words we choose matter because meaning comes from more than just what a message says. It also comes from how the message is expressed and understood.** 
 
 ### What should you remember? 
 
