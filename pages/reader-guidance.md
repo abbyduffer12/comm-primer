@@ -4,7 +4,7 @@ title: "What the reader should do"
 
 # What the reader should do
 
-Ai can be a great tool for helping us communicate, but how do we make sure it is not changing what we actually want to say? 
+AI can be a great tool for helping us communicate, but how do we make sure it is not changing what we actually want to say? 
 
 Throughout this website, we have explored how AI can influence the way our messages are written, delivered, and interpreted. now it's time to think about what we can do to stay in control of our communication. 
 
