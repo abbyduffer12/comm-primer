@@ -35,9 +35,9 @@ In my apology example, AI might make the message sound more formal, even though 
 
 A message can be delivered perfectly and still fail to communicate what the sender intended.
 
-## What can you take away from ths? 
+## What can you take away from this? 
 
-the next time you use Ai to help write a message, don't just ask whether the message sounds better. 
+The next time you use AI to help write a message, don't just ask whether the message sounds better. 
 Ask yourself: 
 * Does this still sound like me?
 * Is AI helping me communicate my original intention?
