@@ -1,6 +1,7 @@
 ---
 title: "The transmission view and its limits"
 ---
+# The Transmission View and its Limits
 
 ## How does a message get from one person to another?
 
