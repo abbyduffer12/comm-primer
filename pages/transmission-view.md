@@ -2,7 +2,7 @@
 title: "The transmission view and its limits"
 ---
 
-# How does a message get from one person to another?
+## How does a message get from one person to another?
 
 Have you ever sent a text message and wondered whether the other person understood what you were trying to say?
 
@@ -12,7 +12,7 @@ Think about sending a text to a friend. You write the message, your phone sends 
 
 But does that mean your friend understood what you actually meant?
 
-# What happens when AI gets involved? 
+## What happens when AI gets involved? 
 
 Imagine you had an argument with a close friend and wanted to apologize. You know what you want to say, but you're struggling to find the right words.
 
@@ -24,7 +24,7 @@ Your friend receives the text without any technical problems. From a transmissio
 
 But what if your friend reads it and thinks, "This doesn't sound like you"?
 
-# The problem with successful delivery 
+## The problem with successful delivery 
 
 This is where Shannon and Weaver's model has its limits when applied to human communication.
 
@@ -34,7 +34,7 @@ In my apology example, AI might make the message sound more formal, even though 
 
 A message can be delivered perfectly and still fail to communicate what the sender intended.
 
-# What can you take away from ths? 
+## What can you take away from ths? 
 
 the next time you use Ai to help write a message, don't just ask whether the message sounds better. 
 Ask yourself: 
