@@ -40,7 +40,7 @@ However, not everyone will react the same way. One person might appreciate the m
 
 **The words we choose matter because meaning comes from more than just what a message says. It also comes from how the message is expressed and understood.** 
 
-### What should you remember? 
+## What should you remember? 
 
 Before sending an AI-assisted message, think about the relationship you have the person receiving it. 
 
