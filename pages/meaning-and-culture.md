@@ -16,7 +16,7 @@ Semiotics is the study of signs and symbols and how they create meaning. Think a
 
 The same thing happens in everyday conversation. Words, emojis, punctuation, and even the way someone normally text can influence how we interpret their message. 
 
-## WHat happens when AI changes our words? 
+## What happens when AI changes our words? 
 
 the example apologizing to a friend. 
 
