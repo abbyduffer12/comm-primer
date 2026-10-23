@@ -18,19 +18,19 @@ My goal is to help you understand how AI affects communication and why it's impo
 
 ## Four Ways to Understand AI and Communication 
 
- ### 1 — Transmission: How Messages Travel
+  **1 — Transmission: How Messages Travel**
 
 Explore how messages move from one person to another and how AI can influence that process.
 
- ### 2 — Meaning and Culture: How Words Create Meaning
+  **2 — Meaning and Culture: How Words Create Meaning**
 
 Learn how word choice, tone, and context influence how people understand AI-assisted messages.
 
- ### 3 — Interpretation and Power: How People Understand Messages Differently
+  **3 — Interpretation and Power: How People Understand Messages Differently**
 
 Discover why someone might interpret an AI-written message differently than the sender intended.
 
- ### 4 — Interpretation and Intention: Who Is Really Speaking?
+  **4 — Interpretation and Intention: Who Is Really Speaking?**
 
 Consider how AI becomes another influence in communication and what that means for our intentions.
 
