@@ -2,11 +2,12 @@
 title: "Home"
 ---
 
-<div class="home-intro">
+<div class="home-intro" markdown="1">
   <p class="eyebrow">Communication, made visible</p>
   <h1>WHO<br><em>Is Speaking?</em></h1>
 
 ## When AI helps write our messages, whose words are they?
+
 Have you ever asked ChatGPT to rewrite a text message or email because you weren't sure how to word it?
 
 AI can help us communicate more clearly, professionally, and efficiently. But what happens when it starts changing the way we sound or the meaning behind what we originally wanted to say?
