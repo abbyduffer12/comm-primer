@@ -36,7 +36,7 @@ In my apology example, my friend reads the AI assisted apology and accepts as a 
 
 The receiver accepts some of the intended meaning but questions or adjusts other parts. 
 
-My friends understands that i'm apologizing but thinks the wording sounds usually formal for me. 
+My friends understands that I'm apologizing but thinks the wording sounds unusually formal for me. 
 
 **3. Oppositional reading** 
 
