@@ -33,7 +33,7 @@ But what happens when AI becomes involved in writing that apology?
 
 Building on Eco's original ideas, we can consider a fourth influence in AI-assisted communication: intentio algorithmi, or the intention of the algorithm.
 
-This does not mean AI has personal feelings or intentions like humans do. Instead, it describes how AI can influence a message through the choice it makes about wording, tone, organization, and emphasis when you ask Ai to improve a message. It might change more that just the grammar. 
+This does not mean AI has personal feelings or intentions like humans do. Instead, it describes how AI can influence a message through the choice it makes about wording, tone, organization, and emphasis when you ask AI to improve a message. It might change more that just the grammar. 
 
 It could make you message sound more professional, less emotional, or more formal than you intended. 
 
